@@ -3,4 +3,8 @@ h6
     color:green; 
     front-size:36px;
 }
-<img src="blog file.jpg" alt="blog file" width="300" height="200">
+ .blog file {
+        width: 300px;
+        height: auto;
+    }
+
